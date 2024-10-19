@@ -1,0 +1,4 @@
+MyBufferOverflowApp.a1:Debug|Win32:C:/Users/bryce/OneDrive - SNHU/(CS-405)/MyBufferOverflowApp/MyBufferOverflowApp/MyBufferOverflowApp.cpp
+MyBufferOverflowApp.a2:Release|Win32:C:/Users/bryce/OneDrive - SNHU/(CS-405)/MyBufferOverflowApp/MyBufferOverflowApp/MyBufferOverflowApp.cpp
+MyBufferOverflowApp.a3:Debug|x64:C:/Users/bryce/OneDrive - SNHU/(CS-405)/MyBufferOverflowApp/MyBufferOverflowApp/MyBufferOverflowApp.cpp
+MyBufferOverflowApp.a4:Release|x64:C:/Users/bryce/OneDrive - SNHU/(CS-405)/MyBufferOverflowApp/MyBufferOverflowApp/MyBufferOverflowApp.cpp
